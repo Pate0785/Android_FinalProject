@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Audio Final Project</string>
+
+    <string name="str_recipe_search" translatable="false">Recipe Search</string>
+    <string name="str_covid_19" translatable="false">Covid 19</string>
+    <string name="str_audio_search" translatable="false">Audio Search</string>
+    <string name="str_save">Save</string>
+    <string name="str_exit">Exit</string>
+    <string name="str_item">Item</string>
+    <string name="menu_home">MENU_HOME</string>
+    <string name="menu_gallery">MENU_GALLERY</string>
+    <string name="menu_slideshow">MENU_SLIDESHOW</string>
+    <string name="action_settings">ACTION_SETTINGS</string>
+
+</resources>
